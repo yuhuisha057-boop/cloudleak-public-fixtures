@@ -1,0 +1,3 @@
+fixture_name = cloudleak-public-search-positive
+-----BEGIN OPENSSH PRIVATE KEY-----
+SYNTHETIC_BODY_NOT_A_REAL_PRIVATE_KEY
